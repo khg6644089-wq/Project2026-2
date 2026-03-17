@@ -97,19 +97,22 @@
 
 ### Frontend
 
-- **React** 19.2.0
-- **Vite** 7.2.4
-- **React Router DOM** 7.9.6
-- **Tailwind CSS** 4.1.17
-- **Moment.js** 2.30.1
-- **React Kakao Maps SDK** 1.2.0
+- **React** 
+- **Vite** 
+- **React Router DOM** 
+- **Tailwind CSS** 
+- **Moment.js** 
+- **React Kakao Maps SDK** 
+- **React Kakao Maps SDK** 
+- **React Kakao Maps SDK**
+
 
 ### Backend
 
-- **Spring Boot** 4.0.0
+- **Spring Boot**
 - **Spring Data JPA**
 - **Lombok**
-- **SpringDoc OpenAPI** 2.8.0 (Swagger)
+- **SpringDoc OpenAPI** 2
 
 ## 📋 주요 기능
 
