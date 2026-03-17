@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/src/img/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="keywords"
+      content="건강, 라스트밸런스, LastBalance, 식단, 체중, 다이어트, AI, 식단관리"
+    />
+    <meta
+      name="description"
+      content="마지막까지 균형 잡힌 식단과 건강 지표를 관리하는 스마트 헬스케어 플랫폼! 라스트 밸런스!"
+    />
+    <meta name="author" content="LastLayer" />
+
+    <!-- Open Graph 메타태그 -->
+    <meta property="og:title" content="LAST BALANCE" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" id="og-url" content="/" />
+    <meta
+      property="og:description"
+      content="마지막까지 균형 잡힌 식단과 건강 지표를 관리하는 스마트 헬스케어 플랫폼! 라스트 밸런스!"
+    />
+    <meta property="og:image" id="og-image" content="https://ynczwbybtbjftkatmcxg.supabase.co/storage/v1/object/sign/LB/og2.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MjY5YTJlMy0zNGQxLTRkNTMtYWYzMC0wOWM5OTZhMzE0ODMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJMQi9vZzIucG5nIiwiaWF0IjoxNzczMjc5MzU3LCJleHAiOjE4MDQ4MTUzNTd9.TYOKe8UkpF4Bb0MSqIsagJqn2oTbLNgqxHQfLWs1lqk" />
+    <script>
+      // 현재 도메인을 자동으로 가져와서 절대 URL로 설정
+      (function () {
+        const baseUrl = window.location.origin;
+        const ogUrl = document.getElementById("og-url");
+        const ogImage = document.getElementById("og-image");
+        if (ogUrl) ogUrl.setAttribute("content", baseUrl + "/");
+        if (ogImage) ogImage.setAttribute("content", "https://ynczwbybtbjftkatmcxg.supabase.co/storage/v1/object/sign/LB/og2.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MjY5YTJlMy0zNGQxLTRkNTMtYWYzMC0wOWM5OTZhMzE0ODMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJMQi9vZzIucG5nIiwiaWF0IjoxNzczMjc5MzU3LCJleHAiOjE4MDQ4MTUzNTd9.TYOKe8UkpF4Bb0MSqIsagJqn2oTbLNgqxHQfLWs1lqk");
+      })();
+    </script>
+
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+
+    <title>LAST BALANCE</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

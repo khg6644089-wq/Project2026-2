@@ -1,0 +1,57 @@
+import { Line } from 'react-chartjs-2';
+import {
+  Chart as ChartJS,
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip,
+  Legend,
+} from 'chart.js';
+
+ChartJS.register(
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip,
+  Legend
+);
+
+function LineChart({ data, options: externalOptions }) {
+  const defaultOptions = {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: {
+      legend: {
+        position: 'top',
+      },
+      title: {
+        display: true,
+        text: 'Line Chart',
+      },
+    },
+  };
+
+  // 외부 옵션이 있으면 기본 옵션과 병합 (plugins는 깊은 병합)
+  const options = externalOptions
+    ? {
+        ...defaultOptions,
+        ...externalOptions,
+        plugins: {
+          ...defaultOptions.plugins,
+          ...externalOptions.plugins,
+        },
+      }
+    : defaultOptions;
+
+  return (
+    <div className="w-full h-[400px]">
+      <Line data={data} options={options} />
+    </div>
+  );
+}
+
+export default LineChart;
