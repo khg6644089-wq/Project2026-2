@@ -54,65 +54,75 @@
 
 # 🛠️ 기술 스택
 
-## 🎨 Frontend
+
+## 🟢 Frontend
 <div>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/fetch-000000?style=flat-square"/>
 </div>
 
 ---
 
-## ⚙️ Backend
+## 🔵 Backend
 <div>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<br/>
+<!-- 프레임워크 -->
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square"/>
+<br/>
+<!-- 보안/인증 -->
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square"/>
+<br/>
+<!-- 데이터 / ORM -->
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<br/>
+<!-- API / 검증 -->
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bean_Validation-FF9800?style=flat-square"/>
+<br/>
+<!-- 머신러닝 -->
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </div>
 
 ---
 
-## 🗄️ Database
+## 🟣 DB / Infra / Collaboration
 <div>
+<!-- DB -->
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</div>
-
----
-
-## ☁️ Infra & DevOps
-<div>
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<br/>
+<!-- Infra -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</div>
-
----
-
-## 🤝 Collaboration
-<div>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<br/>
+<!-- Collaboration -->
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </div>
-
-### Frontend
-
-- **React** 
-- **Vite** 
-- **React Router DOM** 
-- **Tailwind CSS** 
-- **Moment.js** 
-- **React Kakao Maps SDK** 
-- **React Kakao Maps SDK** 
-- **React Kakao Maps SDK**
-
-
-### Backend
-
-- **Spring Boot**
-- **Spring Data JPA**
-- **Lombok**
-- **SpringDoc OpenAPI** 2
 
 ## 📋 주요 기능
 
