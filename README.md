@@ -198,7 +198,7 @@
 ## 🎥 시연 영상
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=1ZLQr8uVqBU">
-    <img src="https://uosmaiisnppqgxbcbawc.supabase.co/storage/v1/object/public/images/image%205.jpg" alt="릿치 시연 영상" width="560"/>
+  <a href="https://www.youtube.com/watch?v=2lXE9_a8lPY">
+    <img src="https://yojekojpfikeuposuyuf.supabase.co/storage/v1/object/public/images/LOGO%20.png" alt="라스트밸런스 시연 영상" width="560"/>
   </a>
 </div>
