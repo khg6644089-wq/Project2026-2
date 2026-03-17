@@ -1,4 +1,4 @@
-# ![로고(마크)](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/log.png)
+# ![로고(마크)](https://yojekojpfikeuposuyuf.supabase.co/storage/v1/object/public/images/LOGO%20.png)
 
 <br/>
 # 구로구 주민을 위한 치과 예약 리뷰 서비스 '릿치'
