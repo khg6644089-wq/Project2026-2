@@ -1,7 +1,7 @@
 # ![로고(마크)](https://yojekojpfikeuposuyuf.supabase.co/storage/v1/object/public/images/LOGO%20.png)
 
 <br/>
-# 구로구 주민을 위한 치과 예약 리뷰 서비스 '릿치'
+# 마지막까지 균형 잡힌 식단과 건강 지표를 관리하는 스마트 헬스케어 플랫폼
 
 > ### *Who are we?*
 - 제작 기간 : 2025-11-17 ~ 2025-12-22
