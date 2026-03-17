@@ -29,7 +29,7 @@
 
 
 ### *Overview*
-*AI 기반 식단 분석, 운동 기록, 커뮤니티 활동을 하나로 연결한 스마트 헬스케어 플랫폼입니다.*
+*AI 기반 식단 분석, 운동 기록, 커뮤니티 활동을 하나로 연결한 스마트 헬스케어 플랫폼입니다. *
 
 
 ![팀의견](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/1.png)
