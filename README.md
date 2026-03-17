@@ -34,7 +34,7 @@
 
 ![팀의견](https://yojekojpfikeuposuyuf.supabase.co/storage/v1/object/public/images/2026-03-17%20162623.png)
 ### 페르소나
-![페르소나](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/22.png)
+![페르소나](https://yojekojpfikeuposuyuf.supabase.co/storage/v1/object/public/images/2026-03-17%20170209.png)
  
 ### 문제 인식
 
