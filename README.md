@@ -44,10 +44,10 @@
 
 ### 해결 방안
 
-릿치는 **예약 → 진료 → 리뷰**로 자연스럽게 이어지는 구조를 가지는 서비스입니다. 실제 진료를 경험한 환자들만이 리뷰를 작성할 수 있도록 하여,
-신뢰할 수 있는 정보를 제공하고자 합니다.
+기존 헬스 기록 서비스는 꾸준한 건강 관리와 서비스 선택에서 어려움을 겪습니다. 
+라스트 밸런스는 커뮤니티 기반 공유, 꾸준한 기록과 보상, AI 맞춤형 지원을 통해 사용자가 지속적으로 운동과 식단을 관리하도록 돕고, 건강한 습관 형성과 목표 달성을 동시에 지원합니다.
 
-![해결방안](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/2.png)
+![해결방안](https://yojekojpfikeuposuyuf.supabase.co/storage/v1/object/public/images/2026-03-17%20171257.png)
 
 # 🛠️ 기술 스택
 
