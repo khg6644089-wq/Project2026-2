@@ -29,7 +29,7 @@
 
 
 ### *Overview*
-*릿치는 구로구 주민들이 실제 진료 경험을 바탕으로 신뢰할 수 있는 치과를 선택 할 수 있도록 돕는 예약, 리뷰 서비스입니다.*
+*AI 기반 식단 분석, 운동 기록, 커뮤니티 활동을 하나로 연결한 스마트 헬스케어 플랫폼입니다.*
 
 
 ![팀의견](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/1.png)
