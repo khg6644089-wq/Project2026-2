@@ -53,7 +53,6 @@
 ![해결방안](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/2.png)
 
 # 🛠️ 기술 스택
-# 🛠️ Tech Stack
 
 ## 🎨 Frontend
 <div>
