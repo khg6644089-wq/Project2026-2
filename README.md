@@ -1,0 +1,172 @@
+# ![로고(마크)](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/log.png)
+
+<br/>
+# 구로구 주민을 위한 치과 예약 리뷰 서비스 '릿치'
+
+> ### *Who are we?*
+- 제작 기간 : 2025-11-17 ~ 2025-12-22
+- 팀구성 : 김훈규(팀장), 박종석(팀원), 임윤섭(팀원), 장희란(팀원), 이하늘(팀원), 홍지승(팀원)
+
+### [프로젝트 노션링크](https://www.notion.so/2-31fadb428bcf8040b83fc76a75d6ecdf?pvs=12)
+
+<br/>
+
+# 👥 팀원 역할
+> ### *김훈규*
+- 프로젝트 일정 계획, 병원 진료 예약 기능, FIGMA 디자인, 마이페이지 디자인, 마이페이지, 이벤트 디자인, 병원 진료 예약 기능, 예약 현황 리스트, 예약 취소
+
+> ### *박종석*
+- DB 설계, ENTITY 설계, 백엔드 설계, 일정 관리, 병원 정보 관리, 통계 페이지, 검색 기능
+
+> ### *임윤섭*
+- UI 설계, FIGMA 디자인, 마이페이지 구현, 리뷰 작성 기능, 좋아요 기능, 이벤트 기능, ABOUT 페이지
+
+> ### *장희란*
+- 프로젝트 일정 계획, UI 및 디자인, ROUTER 설계, HOME 페이지, 회원 정보 변경, FIGMA 디자인, 리뷰 작성 기능, 좋아요 기능, 형상 관리
+  
+> ### *이하늘*
+- ENTITY 설계, 백엔드 설계, 배포, ROUTER 설계, 병원 정보 관리, 통계 페이지, 지도 기능, 검색 기능, 진료 예약 기능
+
+> ### *홍지승*
+- 메인 디자인, FIGMA 디자인, 이벤트 기능, 배포, 회원가입 기능, 로그인 기능, 마이페이지, 병원 진료 예약 기능
+
+
+### *Overview*
+*릿치는 구로구 주민들이 실제 진료 경험을 바탕으로 신뢰할 수 있는 치과를 선택 할 수 있도록 돕는 예약, 리뷰 서비스입니다.*
+
+
+![팀의견](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/1.png)
+
+### 페르소나
+![페르소나](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/22.png)
+ 
+### 문제 인식
+
+치과는 정기 검진부터 응급 치료까지 일상에서 자주 이용하는 생활 밀착형 의료 서비스입니다. 하지만 환자들이 치과를 선택할 때 참고할 수 있는 객관적이고 신뢰할 만한 정보는 여전히 부족한 상황입니다.
+
+현재 많은 사람들은 광고나 지인의 추천에 의존해 치과를 선택하지만, 이러한 정보들은 가격 할인이나 이벤트 중심으로 제공되어 의료진의 전문성, 치료의 투명성, 실제 환자 경험과 같은 중요한 판단 기준을 충분히 반영하지 못하고 있습니다.
+
+이로 인해 환자는 치료의 질을 사전에 판단하기 어렵고, 과도한 치료 권유나 추가 비용 등으로 불안과 불신을 느끼는 문제가 발생하고 있습니다.
+
+### 해결 방안
+
+릿치는 **예약 → 진료 → 리뷰**로 자연스럽게 이어지는 구조를 가지는 서비스입니다. 실제 진료를 경험한 환자들만이 리뷰를 작성할 수 있도록 하여,
+신뢰할 수 있는 정보를 제공하고자 합니다.
+
+![해결방안](https://jsfjtvfxlwjyhnsnijfk.supabase.co/storage/v1/object/public/images/2.png)
+
+# 🛠️ 기술 스택
+<div>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/axios.js-854195?style=flat-square&logo=axios&logoColor=5A29E4" />
+<img src="https://img.shields.io/badge/supabase-F80000?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=plastic&logo=apache-tomcat&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
+
+
+</div>
+
+### Frontend
+
+- **React** 19.2.0
+- **Vite** 7.2.4
+- **React Router DOM** 7.9.6
+- **Tailwind CSS** 4.1.17
+- **Moment.js** 2.30.1
+- **React Kakao Maps SDK** 1.2.0
+
+### Backend
+
+- **Spring Boot** 4.0.0
+- **Spring Data JPA**
+- **Lombok**
+- **SpringDoc OpenAPI** 2.8.0 (Swagger)
+
+## 📋 주요 기능
+
+### 1. 직관적인 사용자 경험
+
+헤더의 상단 메뉴바를 통해 사용자가 쉽게 이동할 수 있도록 구성했습니다.
+
+### 2. HOME 화면
+
+- **릿치 선정 TOP3 리스트**: 인기 병원을 한눈에 확인
+- **탭 메뉴**: 평균 평점 높은 순, 리뷰 많은 순, 댓글 많은 순으로 병원 탐색
+- **메인 슬라이드**: 이벤트 정보 확인
+
+### 3. 치과 리스트
+
+- **정렬 기능**: 평균 평점 순, 후기 순, 댓글 순으로 치과 리스트 조회
+- **검색 필터**: 병원명, 주소, 주차 가능 여부로 검색 가능
+- **병원 기본 정보**: 병원명, 주소, 전화번호, 주차 가능 여부 등 확인
+
+### 4. 치과 상세 페이지
+
+- **병원 정보**: 기본 정보, 운영 시간표 확인
+- **위치 지도**: 카카오맵을 통한 병원 위치 확인
+- **리뷰 목록**:
+  - 병원 평점, 조회수 확인
+  - 리뷰 내용, 좋아요 수, 댓글 수 확인
+  - 댓글 작성자, 댓글 날짜, 댓글 내용 확인
+- **댓글 작성**: 리뷰에 대한 댓글 작성 가능
+- **좋아요 기능**: 리뷰에 좋아요 누르기
+- **예약 버튼**: 바로 예약으로 이동
+
+### 5. 예약 화면
+
+- **증상 입력**: 진료 받을 증상 입력
+- **날짜 선택**: 캘린더를 통한 날짜 선택
+- **시간 입력**: 예약 시간 입력
+- **개인정보 사용 동의**: 체크박스를 통한 동의
+- **병원명, 일자 자동 입력**: 예약 정보 자동 입력
+- **운영 시간 검증**: 병원 운영 시간 내에서만 예약 가능 (점심 시간 제외)
+- **과거 시간 방지**: 현재 시간 이후로만 예약 가능
+
+### 6. 이벤트
+
+- **이벤트 목록**: 릿치에서 진행하는 이벤트 확인
+- **이벤트 상세 페이지**: 이벤트 상세 정보 확인 및 예약 연결
+
+### 7. 마이페이지
+
+- **회원 정보 수정**: 개인 정보 변경
+- **예약 현황**: 예약 내역 조회 및 관리
+- **진료 기록**:
+  - 병원명, 진료 일자, 증상 확인
+  - 의사 소견과 주의사항 작성 내역 확인
+  - 내역 조회
+- **후기 기록**: 작성한 리뷰 관리
+
+### 8. 리뷰 작성 화면
+
+- **병원명, 일자 자동 입력**: 예약 정보 기반 자동 입력
+- **별점 선택**: 5점 만점 별점 평가
+- **제목 입력**: 리뷰 제목 작성
+- **내용 입력**: 리뷰 내용 작성
+- **사진 첨부**: 리뷰 사진 첨부 (선택)
+
+### 9. 환자 진료 리스트 (병원 관계자)
+
+- **해당 병원의 리스트 작성**: 환자 진료 내역 관리
+- **병원명, 진료 일자, 증상**: 진료 정보 확인
+- **의사 소견과 주의사항 작성**: 소견서 및 주의사항 작성
+- **내역 조회**: 진료 내역 조회
+- **환자 예약 내역 자동 입력**: 예약 정보 기반 자동 입력
+
+## 🎥 시연 영상
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1ZLQr8uVqBU">
+    <img src="https://uosmaiisnppqgxbcbawc.supabase.co/storage/v1/object/public/images/image%205.jpg" alt="릿치 시연 영상" width="560"/>
+  </a>
+</div>
